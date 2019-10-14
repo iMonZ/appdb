@@ -2,8 +2,8 @@
   Localizable.strings
   appdb
 
-  Created by ned on 14/10/2019.
-  Copyright © 2019 Goldgamer. All rights reserved.
+  Created by Goldgamer/iMonZ on 14/10/2019.
+  Copyright © 2019 Goldgamer/iMonZ. All rights reserved.
 */
 
 /////////////////////
@@ -26,10 +26,10 @@
 //    NETWORKING    //
 //////////////////////
 
-"Cannot connect" = "Verbindung nicht möglich";
-"Retry" = "erneut versuchen";
+"Cannot connect" = "Verbindung nicht möglich!";
+"Retry" = "Bitte erneut versuchen!";
 "Waiting..." = "Warte...";
-"Checking..." = "Warte...";
+"Checking..." = "Überprüfen...";
 "Operation has been cancelled." = "Der Versuch wurde abgebrochen!";
 
 //////////////////////
