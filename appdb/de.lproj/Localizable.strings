@@ -2,15 +2,15 @@
   Localizable.strings
   appdb
 
-  Created by ned on 31/01/2017.
-  Copyright © 2017 ned. All rights reserved.
+  Created by ned on 14/10/2019.
+  Copyright © 2019 Goldgamer. All rights reserved.
 */
 
 /////////////////////
 //  APPDB RELATED  //
 /////////////////////
 
-"We do not host any prohibited content. All data is publicly available via iTunes API." = "We do not host any prohibited content. All data is publicly available via iTunes API.";
+"We do not host any prohibited content. All data is publicly available via iTunes API." = "Wir hosten keine verbotenen Inhalte. Alle Daten sind über die iTunes-API öffentlich zugänglich.";
 
 //////////////////////
 //  TAB BAR TITLES  //
@@ -48,41 +48,41 @@
 /////////////////////////////
 
 "Custom Apps" = "Custom Apps";
-"New and Noteworthy" = "New and Noteworthy";
-"Top Paid" = "Top Paid";
-"Popular This Week" = "Popular This Week";
-"Best Games" = "Best Games";
-"Top Books" = "Top Books";
-"See All" = "See All";
+"New and Noteworthy" = "Neu und bemerkenswert";
+"Top Paid" = "Best bezahlt";
+"Popular This Week" = "Beliebt in dieser Woche";
+"Best Games" = "Die besten Spiele";
+"Top Books" = "Die besten Bücher";
+"See All" = "Alle anzeigen";
 "News" = "News";
-"Settings" = "Settings";
-"System Status" = "System Status";
+"Settings" = "Einstellungen";
+"System Status" = "System status";
 
 //////////////////////////
 //     APPS & BOOKS     //
 //////////////////////////
 
-"Description" = "Description";
-"What's New" = "What's New";
+"Description" = "Beschreibung";
+"What's New" = "Was gibts neues";
 "Tweaked Version Notice" = "Tweaked Version Notice";
 "This app was tweaked to provide additional features. Be sure to download it from verified crackers only, because no one except them can guarantee that it doesn't contain any malicious code." = "This app was tweaked to provide additional features. Be sure to download it from verified crackers only, because no one except them can guarantee that it doesn't contain any malicious code.";
-"iPad only" = "iPad only";
-"Information" = "Information";
-"Seller" = "Seller";
-"Developer" = "Developer";
-"Category" = "Category";
-"Price" = "Price";
-"Updated" = "Updated";
+"iPad only" = "nur für iPads";
+"Information" = "Informationen";
+"Seller" = "Verkäufer";
+"Developer" = "Entwickler";
+"Category" = "Kategorie";
+"Price" = "Preis";
+"Updated" = "aktualisiert";
 "Version" = "Version";
-"Compatibility" = "Compatibility";
-"Size" = "Size";
-"Language" = "Language";
-"Languages" = "Languages";
+"Compatibility" = "Kompatibilität";
+"Size" = "größe";
+"Language" = "Sprache";
+"Languages" = "Sprachen";
 "Bundle ID" = "Bundle ID";
-"Author" = "Author";
+"Author" = "Autor";
 "Print Length" = "Print Length";
-"Requirements" = "Requirements";
-"Rating" = "Rating";
+"Requirements" = "Voraussetzungen";
+"Rating" = "Bewertung";
 "Developer Apps" = "Developer Apps";
 "Developer Website" = "Developer Website";
 "Developer Support" = "Developer Support";
