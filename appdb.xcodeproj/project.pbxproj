@@ -226,6 +226,7 @@
 		81FF1C551F9211B00086EEE0 /* Localize_Swift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FF1C501F9211B00086EEE0 /* Localize_Swift.framework */; };
 		81FF1C561F9211B00086EEE0 /* Cosmos.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FF1C511F9211B00086EEE0 /* Cosmos.framework */; };
 		81FF1C571F9211B00086EEE0 /* AlamofireImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FF1C521F9211B00086EEE0 /* AlamofireImage.framework */; };
+		CC3860A02354D71900D18AE7 /* StartApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC38609F2354D71900D18AE7 /* StartApp.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -470,6 +471,9 @@
 		81FF1C511F9211B00086EEE0 /* Cosmos.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cosmos.framework; path = Carthage/Build/iOS/Cosmos.framework; sourceTree = "<group>"; };
 		81FF1C521F9211B00086EEE0 /* AlamofireImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AlamofireImage.framework; path = Carthage/Build/iOS/AlamofireImage.framework; sourceTree = "<group>"; };
 		88BEFFC722B3A24A008FD371 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		CC38609B2354D69B00D18AE7 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		CC38609C2354D6B700D18AE7 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = appdb/de.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		CC38609F2354D71900D18AE7 /* StartApp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = StartApp.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -490,6 +494,7 @@
 				815234CF2278479000B1AE65 /* ZIPFoundation.framework in Frameworks */,
 				817D2EDA1E8EBBE500B8AE0D /* Alamofire.framework in Frameworks */,
 				817D2EDD1E8EBBE500B8AE0D /* Cartography.framework in Frameworks */,
+				CC3860A02354D71900D18AE7 /* StartApp.framework in Frameworks */,
 				816B343C20B727500019DE5C /* DeepDiff.framework in Frameworks */,
 				8138538C1F2B7EA300DC7C54 /* Kanna.framework in Frameworks */,
 				81FF1C531F9211B00086EEE0 /* AlamofireNetworkActivityIndicator.framework in Frameworks */,
@@ -1115,6 +1120,7 @@
 		81AB37A31DAC2ED7003A586F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				CC38609F2354D71900D18AE7 /* StartApp.framework */,
 				81B0A97F2341387C00E14A71 /* StoreKit.framework */,
 				81BFC98722F4CE0A008073D8 /* StartApp.framework */,
 				81BFC99C22F4CE8A008073D8 /* libz.tbd */,
@@ -1488,9 +1494,9 @@
 				TargetAttributes = {
 					8167A60E1DAC246000F96AC2 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 9Y4562FZWB;
+						DevelopmentTeam = 4U4U6X4R48;
 						LastSwiftMigration = 1020;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.Keychain = {
 								enabled = 0;
@@ -1509,6 +1515,7 @@
 				it,
 				es,
 				ru,
+				de,
 			);
 			mainGroup = 8167A6061DAC246000F96AC2;
 			productRefGroup = 8167A6101DAC246000F96AC2 /* Products */;
@@ -1788,6 +1795,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				8167A61E1DAC246000F96AC2 /* Base */,
+				CC38609B2354D69B00D18AE7 /* de */,
 			);
 			name = LaunchScreen.storyboard;
 			path = .;
@@ -1800,6 +1808,7 @@
 				819EC2D31E41016D00BA7A50 /* it */,
 				817962D722A43F65005BB1F0 /* es */,
 				88BEFFC722B3A24A008FD371 /* ru */,
+				CC38609C2354D6B700D18AE7 /* de */,
 			);
 			name = Localizable.strings;
 			path = .;
@@ -1955,8 +1964,8 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9Y4562FZWB;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 4U4U6X4R48;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/appdb",
@@ -1969,10 +1978,10 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.0.2;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "it.ned.appdb-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = com.robertolevinson.custom;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = f784f46c7ae74eeb5fe7d49cfd5b790fac70e3c2_custom;
 				SWIFT_INCLUDE_PATHS = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "appdb/Other/appdb-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1988,8 +1997,8 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9Y4562FZWB;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 4U4U6X4R48;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/appdb",
@@ -2002,10 +2011,10 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.0.2;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "it.ned.appdb-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = com.robertolevinson.custom;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = f784f46c7ae74eeb5fe7d49cfd5b790fac70e3c2_custom;
 				SWIFT_INCLUDE_PATHS = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "appdb/Other/appdb-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
