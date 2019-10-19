@@ -62,12 +62,12 @@
 //     APPS & BOOKS     //
 //////////////////////////
 
-"Description" = "Beschreibung";
-"What's New" = "Was gibts neues";
-"Tweaked Version Notice" = "Tweaked Version Notice";
-"This app was tweaked to provide additional features. Be sure to download it from verified crackers only, because no one except them can guarantee that it doesn't contain any malicious code." = "This app was tweaked to provide additional features. Be sure to download it from verified crackers only, because no one except them can guarantee that it doesn't contain any malicious code.";
+"Description" = "Beschreibung:";
+"What's New" = "Neues:";
+"Tweaked Version Notice" = "Hinweis:";
+"This app was tweaked to provide additional features. Be sure to download it from verified crackers only, because no one except them can guarantee that it doesn't contain any malicious code." = "Ein Tweak wurde auf der App installiert um zusätzliche Funktionen bereitzustellen. Stellen Sie sicher, dass Sie es nur von verifizierten Crackern herunterladen, da niemand außer ihnen garantieren kann, dass es keinen schädlichen Code enthält.";
 "iPad only" = "nur für iPads";
-"Information" = "Informationen";
+"Information" = "Informationen:";
 "Seller" = "Verkäufer";
 "Developer" = "Entwickler";
 "Category" = "Kategorie";
@@ -80,62 +80,62 @@
 "Languages" = "Sprachen";
 "Bundle ID" = "Bundle ID";
 "Author" = "Autor";
-"Print Length" = "Print Length";
+"Print Length" = "angezeigte Größe";
 "Requirements" = "Voraussetzungen";
 "Rating" = "Bewertung";
-"Developer Apps" = "Developer Apps";
-"Developer Website" = "Developer Website";
-"Developer Support" = "Developer Support";
-"More by this author" = "More by this author";
-"Unknown" = "Unknown";
-"See Original" = "See Original";
+"Developer Apps" = "Entwickler Apps";
+"Developer Website" = "Entwickler Website";
+"Developer Support" = "Entwickler Support";
+"More by this author" = "Mehr von diesem Autor";
+"Unknown" = "Unbekannt";
+"See Original" = "Siehe Original";
 "Details" = "Details";
-"Reviews" = "Reviews";
+"Reviews" = "Bewertungen";
 "Download" = "Download";
-"Install" = "Install";
-"Requesting..." = "Requesting...";
-"Requested" = "Requested";
-"by" = "by";
-"Related Apps" = "Related Apps";
-"Related Books" = "Related Books";
-"Reviews are from Apple's iTunes Store ©" = "Reviews are from Apple's iTunes Store ©";
-"Check out '%@' on appdb!" = "Check out '%@' on appdb!";
-"Installation has been queued to your device" = "Installation has been queued to your device";
-"Installation options" = "Installation options";
-"Duplicate app" = "Duplicate app";
-"New ID" = "New ID";
-"New display name" = "New display name";
-"Use Original" = "Use Original";
-"Cracked by %@" = "Cracked by %@";
-"Uploaded by %@" = "Uploaded by %@";
-"Cracked and uploaded by %@" = "Cracked and uploaded by %@";
+"Install" = "Installieren";
+"Requesting..." = "Die Anfrage wird gestellt...";
+"Requested" = "Die Anfrage wurde gestellt!";
+"by" = "von";
+"Related Apps" = "ähnliche Apps";
+"Related Books" = "ähnliche Books";
+"Reviews are from Apple's iTunes Store ©" = "Bewertungen stammen aus dem iTunes Store© von Apple";
+"Check out '%@' on appdb!" = "Guckt euch '%@' in der appdb App an!";
+"Installation has been queued to your device" = "Die Installation wurde auf Ihrem Gerät in die Warteschlange gestellt";
+"Installation options" = "Installationsoptionen";
+"Duplicate app" = "App duplizieren";
+"New ID" = "Neue Bundle ID";
+"New display name" = "Neuer Springboard Name";
+"Use Original" = "Original nutzen";
+"Cracked by %@" = "von: '%@' gecrackt ";
+"Uploaded by %@" = "von: '%@' hochgeladen";
+"Cracked and uploaded by %@" = "von: '%@' gecrackt und hochgeladen";
 
 //////////////////////////////////
 //     DEVICE LINK TUTORIAL     //
 //////////////////////////////////
 
-"Authorization" = "Authorization";
-"Authorize App" = "Authorize App";
-"Is your device already linked to appdb? You can check if you have appdb profile installed at Settings -> General -> Profiles." = "Is your device already linked to appdb? You can check if you have appdb profile installed at Settings -> General -> Profiles.";
-"Continue" = "Continue";
-"Enter Link Code" = "Enter Link Code";
-"Enter link code here" = "Enter link code here";
+"Authorization" = "Autorisierung";
+"Authorize App" = "Autorisierungs App";
+"Is your device already linked to appdb? You can check if you have appdb profile installed at Settings -> General -> Profiles." = "Ist Ihr Gerät bereits mit AppDB verbunden? Sie können das unter Einstellungen -> Allgemein -> Profile überprüfen, ob Sie ein AppDB-Profil installiert haben.";
+"Continue" = "Fortfahren";
+"Enter Link Code" = "Geben Sie den Link-Code ein";
+"Enter link code here" = "Geben Sie hier den Link-Code ein";
 "Please enter a valid email address." = "Please enter a valid email address.";
-"Paste the 8 digits case sensitive link code you see on this page:" = "Paste the 8 digits case sensitive link code you see on this page:";
-"Go Back" = "Go Back";
-"Enter Email" = "Enter Email";
-"Please enter your email address below and click Continue. You will be redirected to the Settings app where you can proceed with appdb profile installation." = "Please enter your email address below and click Continue. You will be redirected to the Settings app where you can proceed with appdb profile installation.";
-"Success" = "Success";
-"Well done! This app is now authorized to install apps on your device." = "Well done! This app is now authorized to install apps on your device.";
-"Start using appdb!" = "Start using appdb!";
-"Unable to complete" = "Unable to complete";
-"Yes, already linked" = "Yes, already linked";
-"No, not yet linked" = "No, not yet linked";
-"name@example.com" = "name@example.com";
-"Deauthorization" = "Deauthorization";
-"Deauthorized" = "Deauthorized";
-"Are you sure you want to deauthorize this app from installing apps on your device?\n\nNOTE: This won't unlink your device from appdb. To do so, remove its profile in Settings -> General -> Profiles." = "Are you sure you want to deauthorize this app from installing apps on your device?\n\nNOTE: This won't unlink your device from appdb. To do so, remove its profile in Settings -> General -> Profiles.";
-"App was deauthorized successfully." = "App was deauthorized successfully.";
+"Paste the 8 digits case sensitive link code you see on this page:" = "Fügen Sie den 8-stelligen Link-Code ein, den Sie auf dieser Seite sehen:";
+"Go Back" = "zurückgehen";
+"Enter Email" = "E-Mail Adresse eingeben";
+"Please enter your email address below and click Continue. You will be redirected to the Settings app where you can proceed with appdb profile installation." = "Bitte geben Sie Ihre E-Mail-Adresse ein und klicken Sie auf Weiter. Sie werden zu der App Einstellung weitergeleitet, in der Sie mit der Installation des AppDB-Profils fortfahren können.";
+"Success" = "Geschafft!";
+"Well done! This app is now authorized to install apps on your device." = "Gut gemacht! Diese App ist jetzt berechtigt, Apps auf Ihrem Gerät zu installieren.";
+"Start using appdb!" = "Let's go";
+"Unable to complete" = "Fortfahren nicht möglich";
+"Yes, already linked" = "Ja, schon gelinkt";
+"No, not yet linked" = "Nein, noch nicht gelinkt";
+"name@example.com" = "name@beispiel.de";
+"Deauthorization" = "Deauthorisierung";
+"Deauthorized" = "deautorisiert";
+"Are you sure you want to deauthorize this app from installing apps on your device?\n\nNOTE: This won't unlink your device from appdb. To do so, remove its profile in Settings -> General -> Profiles." = "Möchten Sie diese App wirklich für die Installation von Apps auf Ihrem Gerät deaktivieren? \ N \ nHINWEIS: Hierdurch wird die Verknüpfung Ihres Geräts mit AppDB nicht aufgehoben. Entfernen Sie dazu das Profil unter Einstellungen -> Allgemein -> Profile.";
+"App was deauthorized successfully." = "App wurde erfolgreich deaktiviert.";
 
 ////////////////////
 //     SEARCH     //
@@ -376,3 +376,23 @@
 "%@h ago" = "%@h her"; // hours, e.g. 6h ago
 "%@d ago" = "%@d her"; // days, e.g. 3d ago
 "now" = "jetzt";
+
+"Advanced Options" = "Advanced Options";
+"Check PRO Revocation" = "Check PRO Revocation";
+"Validate PRO Voucher" = "Validate PRO Voucher";
+"Activate PRO Voucher" = "Activate PRO Voucher";
+"Email Link Code" = "Email Link Code";
+"List apps managed by appdb" = "List apps managed by appdb";
+"Your PRO has not been revoked!" = "Your PRO has not been revoked!";
+"Enter Voucher" = "Enter Voucher";
+"Paste here the PRO voucher obtained by a reseller:" = "Paste here the PRO voucher obtained by a reseller:";
+"Activate" = "Activate";
+"Your PRO has been activated successfully!" = "Your PRO has been activated successfully!";
+"Validate" = "Validate";
+"Your PRO voucher is valid and can be activated!" = "Your PRO voucher is valid and can be activated!";
+"Enter below the email address where the link code will be sent:" = "Enter below the email address where the link code will be sent:";
+"Email was sent successfully!" = "Email was sent successfully!";
+"Apps managed by appdb" = "Apps managed by appdb";
+"Bundle IDs" = "Bundle IDs";
+"Only apps that are managed by appdb will appear here." = "Only apps that are managed by appdb will appear here.";
+
